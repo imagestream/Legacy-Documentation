@@ -6,7 +6,14 @@
 Welcome to Legacy documentation!
 =================================
 
-This the old ImageStream 4.4.x legacy documentation. 
+This the old ImageStream 4.4.x legacy documentation. This documentation tree will be oupdated over time to feature 
+the full 4.4.x manual and the old tech notes from the Wiki page. 
+
+The old documentation pdf is available at the link below and should serve as a reference until the documentation is 
+fully converted to the new documentation. 
+
+:download: 'Old Pdf version of the 4.4.x Manual <../legacy-files/Router_Manual_4.pdf>'.
+
 
 .. toctree:: 
    :maxdepth: 3
